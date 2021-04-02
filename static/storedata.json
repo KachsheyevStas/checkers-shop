@@ -1,0 +1,126 @@
+[
+  {
+    "id": "9d436e98-1dc9-4f21-9587-76d4c0255e33",
+    "color": "Классический",
+    "description": "Для любителей классики",
+    "gender": "Male",
+    "name": "Классическая доска",
+    "review": "productize virtual markets",
+    "starrating": 3,
+    "price": 50.4,
+    "img": "1.png"
+  },
+  {
+    "id": "bfa86b1c-9ebf-4555-987f-7b8bf7d27be7",
+    "color": "Стандартный",
+    "description": "Для тех, кому шашки обыденность",
+    "gender": "Male",
+    "name": "Стандартная доска",
+    "review": "deploy efficient mindshare",
+    "starrating": 4,
+    "price": 33.99,
+    "img": "2.png"
+  },
+  {
+    "id": "eca6b1c7-6b8c-4416-aae0-98cecdc18e92",
+    "color": "Узорный",
+    "description": "Экзотичный вариант исполнения цвета",
+    "gender": "Female",
+    "name": "Узорная доска",
+    "review": "mesh sticky content",
+    "starrating": 3,
+    "price": 102.99,
+    "img": "3.png"
+  },
+  {
+    "id": "440e2eac-67ed-4407-993a-d9f6b7f15087",
+    "color": "Коричневый",
+    "description": "Еще один вариант классического исполнения шахматной доски",
+    "gender": "Female",
+    "name": "Вариант класического исполнения",
+    "review": "integrate front-end infomediaries",
+    "starrating": 5,
+    "price": 64.5,
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "img": "4.png"
+  },
+  {
+    "id": "38543b28-3b0e-4886-a108-b58419bcef94",
+    "color": "Декоративный",
+    "description": "Декоративное исполнение",
+    "gender": "Male",
+    "name": "Декоративная доска",
+    "review": "integrate extensible methodologies",
+    "starrating": 5,
+    "price": 30.99,
+    "img": "5.png"
+  },
+  {
+    "id": "3d16728f-4b1d-449a-b002-4dc23f32c0cd",
+    "color": "Синий",
+    "description": "Шашка синего цвета",
+    "gender": "Female",
+    "name": "Шашка синего цвета",
+    "review": "utilize end-to-end functionalities",
+    "starrating": 4,
+    "price": 19.99,
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "img": "6.png"
+  },
+  {
+    "id": "0d5c91e6-8dbe-4c5b-b9fa-9e82986b1bdc",
+    "color": "Красный",
+    "description": "Шашка красного цвета",
+    "gender": "Male",
+    "name": "Шашка красного цвета",
+    "review": "enable cutting-edge e-services",
+    "starrating": 3,
+    "price": 130.0,
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "img": "7.png"
+  },
+  {
+    "id": "80175256-93a1-41b8-9895-a890ed0c61d1",
+    "color": "Белый",
+    "description": "Шашка белого цвета",
+    "gender": "Male",
+    "name": "Шашка белого цвета",
+    "review": "innovate sexy portals",
+    "starrating": 4,
+    "price": 120.99,
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "img": "8.png"
+  },
+  {
+    "id": "b5438034-168a-4b51-9d2e-dd9fc336a242",
+    "color": "Желтый",
+    "description": "Шашка желтого цвета",
+    "gender": "Male",
+    "name": "Шашка желтого цвета",
+    "review": "transform robust mindshare",
+    "starrating": 5,
+    "price": 20.99,
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "img": "9.png"
+  }
+]
