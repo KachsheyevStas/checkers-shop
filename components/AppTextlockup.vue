@@ -5,9 +5,6 @@
         <img src="/shoe1.jpg" alt="shoe" />
       </slot>
     </div>
-    <div class="sale">
-      <slot name="sale">Новое поступление</slot>
-    </div>
   </div>
 </template>
 
