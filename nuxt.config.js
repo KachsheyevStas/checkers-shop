@@ -46,12 +46,16 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [`~/plugins/currency-filter.js`],
+  plugins: [`~/plugins/currency-filter.js`,
+  `~/plugins/http-common.js`,
+  `~/plugins/UserDataService.js`,
+  `~/plugins/ItemDataService.js`
+],
   /*
    ** Nuxt.js modules
    */
   modules: [
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
   ],
   /*
    ** Build configuration
@@ -63,7 +67,7 @@ export default {
     extend(config, ctx) {}
   },
   manifest: {
-    name: 'Nuxt.js PWA survival store',
+    name: 'Nuxt.js PWA',
     short_name: 'Nuxt.js PWA',
     lang: 'en',
     display: 'standalone',
